@@ -1,0 +1,28 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "description": "retrieves all paths from a given domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezol/pathfinder.git"
+  },
+  "keywords": [
+    "webscrapper",
+    "pathfinder",
+    "spider"
+  ],
+  "author": "Oriol Pérez Olivares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezol/pathfinder/issues"
+  },
+  "homepage": "https://github.com/operezol/pathfinder#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^14.2.1"
+  }
+}
